@@ -1,0 +1,4 @@
+To delete user data/account :
+1. Go to Home
+2. Click on "Delete Account", and then click on "Yes" button
+3. It will delete your data & account from our system.
